@@ -1,4 +1,4 @@
-cd C:\Users\ali2h\OneDrive\Desktop\finsight
-echo plotly > requirements.txt
-echo groq >> requirements.txt
-echo pandas >> requirements.txt
+streamlit
+plotly
+groq
+pandas
